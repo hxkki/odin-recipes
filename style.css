@@ -1,0 +1,41 @@
+button{
+
+    border-radius: 100px;
+    height: 150px;
+    width: 200px;
+    border: none;
+    background-color: orange;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+
+}
+
+body{
+
+    text-align: center;
+}
+
+h1{
+
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+button:hover{
+
+    background-color: hsl(39, 95%, 62%);
+
+}
+
+button:active{
+
+    background-color: hsl(39, 95%, 80%);
+
+}
+
